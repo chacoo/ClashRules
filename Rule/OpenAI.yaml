@@ -5,7 +5,12 @@
 # IP-CIDR: 7
 # TOTAL: 32
 payload:
-  - DOMAIN-SUFFIX,apenai.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,openai
+
+# opencode
+  - DOMAIN-SUFFIX,opencode.ai
