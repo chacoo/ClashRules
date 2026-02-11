@@ -18,6 +18,7 @@ payload:
   # stripe
   - DOMAIN-SUFFIX,stripe.com,Proxy
   - DOMAIN-SUFFIX,stripecdn.com,Proxy
+  - DOMAIN-SUFFIX,stripeassets.com,Proxy
 
   # > Other
   - DOMAIN-SUFFIX,javdb.com,Proxy
