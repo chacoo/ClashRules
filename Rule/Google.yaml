@@ -1,4 +1,8 @@
 payload:
+# Antigravity
+  - DOMAIN,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,us-central1.run.app
+
 # NAME: Google
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,0emm.com
