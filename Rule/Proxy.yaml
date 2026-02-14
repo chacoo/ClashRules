@@ -20,6 +20,9 @@ payload:
   - DOMAIN-SUFFIX,stripecdn.com,Proxy
   - DOMAIN-SUFFIX,stripeassets.com,Proxy
 
+  # docker
+  - DOMAIN-SUFFIX,docker.io,Proxy
+  
   # > Other
   - DOMAIN-SUFFIX,javdb.com,Proxy
   - DOMAIN-SUFFIX,4shared.com,Proxy
