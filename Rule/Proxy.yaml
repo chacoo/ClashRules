@@ -22,7 +22,17 @@ payload:
 
   # docker
   - DOMAIN-SUFFIX,docker.io,Proxy
-  
+
+  # news
+  - DOMAIN-SUFFIX,usatoday.com,Proxy
+  - DOMAIN-SUFFIX,cnn.com,Proxy
+  - DOMAIN-SUFFIX,foxnews.com,Proxy
+  - DOMAIN-SUFFIX,forbes.com,Proxy
+  - DOMAIN-SUFFIX,nypost.com,Proxy
+  - DOMAIN-SUFFIX,wn.com,Proxy
+  - DOMAIN-SUFFIX,vox.com,Proxy
+  - DOMAIN-SUFFIX,voanews.com,Proxy
+
   # > Other
   - DOMAIN-SUFFIX,javdb.com,Proxy
   - DOMAIN-SUFFIX,4shared.com,Proxy
