@@ -22,6 +22,8 @@ payload:
 
   # docker
   - DOMAIN-SUFFIX,docker.io,Proxy
+  - DOMAIN-SUFFIX,docker.com,Proxy
+
 
   # news
   - DOMAIN-SUFFIX,usatoday.com,Proxy
